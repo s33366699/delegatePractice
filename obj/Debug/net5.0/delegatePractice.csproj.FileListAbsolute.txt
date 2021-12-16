@@ -1,0 +1,16 @@
+C:\Users\s3336\Documents\Code\delegatePractice\bin\Debug\net5.0\delegatePractice.exe
+C:\Users\s3336\Documents\Code\delegatePractice\bin\Debug\net5.0\delegatePractice.deps.json
+C:\Users\s3336\Documents\Code\delegatePractice\bin\Debug\net5.0\delegatePractice.runtimeconfig.json
+C:\Users\s3336\Documents\Code\delegatePractice\bin\Debug\net5.0\delegatePractice.runtimeconfig.dev.json
+C:\Users\s3336\Documents\Code\delegatePractice\bin\Debug\net5.0\delegatePractice.dll
+C:\Users\s3336\Documents\Code\delegatePractice\bin\Debug\net5.0\ref\delegatePractice.dll
+C:\Users\s3336\Documents\Code\delegatePractice\bin\Debug\net5.0\delegatePractice.pdb
+C:\Users\s3336\Documents\Code\delegatePractice\obj\Debug\net5.0\delegatePractice.csproj.AssemblyReference.cache
+C:\Users\s3336\Documents\Code\delegatePractice\obj\Debug\net5.0\delegatePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s3336\Documents\Code\delegatePractice\obj\Debug\net5.0\delegatePractice.AssemblyInfoInputs.cache
+C:\Users\s3336\Documents\Code\delegatePractice\obj\Debug\net5.0\delegatePractice.AssemblyInfo.cs
+C:\Users\s3336\Documents\Code\delegatePractice\obj\Debug\net5.0\delegatePractice.csproj.CoreCompileInputs.cache
+C:\Users\s3336\Documents\Code\delegatePractice\obj\Debug\net5.0\delegatePractice.dll
+C:\Users\s3336\Documents\Code\delegatePractice\obj\Debug\net5.0\ref\delegatePractice.dll
+C:\Users\s3336\Documents\Code\delegatePractice\obj\Debug\net5.0\delegatePractice.pdb
+C:\Users\s3336\Documents\Code\delegatePractice\obj\Debug\net5.0\delegatePractice.genruntimeconfig.cache
